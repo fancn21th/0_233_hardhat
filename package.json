@@ -1,0 +1,10 @@
+{
+  "name": "jpegdegens",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "fancn21th <fancn21th@aliyun.com> (http://fancn21th.cn/)",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "2.19.4"
+  }
+}
